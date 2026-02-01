@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **ganeshyadav001r@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:** Codinspect  
 - 🌱 **I’m currently learning:** C/C++
-- 👯 **I’m looking to collaborate on:** Kortix.com
+- 👯 **I’m looking to collaborate on:**Open to collaborating on innovative projects
 
 
 ## 🔗 I am a B Tech CS Student. 😊😊
