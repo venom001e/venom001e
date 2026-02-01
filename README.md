@@ -12,9 +12,11 @@ Email Me 👉 ✉️ **ganeshyadav001r@gmail.com** For Collaboration/Project or 
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Techno Snag Instagram]
-[![Techno Snag Facebook]
-[![Techno Snag Twitter]
+![Instagram](https://img.shields.io/badge/Instagram-Venom-pink?logo=instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-Venom-blue?logo=facebook&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-Venom-lightblue?logo=twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Yadav-0077B5?logo=linkedin&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-Venom-red?logo=youtube&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=venom001e&icon=1&color=4)](https://visitcount.itsvg.in)
 
